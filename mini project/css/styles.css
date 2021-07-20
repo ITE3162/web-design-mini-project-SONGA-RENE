@@ -1,0 +1,295 @@
+                * {
+                    font-family: Georgia, 'Times New Roman', Times, serif
+                }
+                
+                body {
+                    /* body */
+                    background: #B8DADC;
+                    position: absolute;
+                    width: 987px;
+                    height: 1509px;
+                    left: 25px;
+                    top: 25px;
+                }
+                
+                header {
+                    /* header */
+                    position: absolute;
+                    width: 960px;
+                    height: 282px;
+                    left: 190px;
+                    top: 43px;
+                }
+                
+                header img {
+                    width: 960px;
+                    height: 182px;
+                    background-size: cover;
+                    background-position: 100%;
+                    border-radius: 10px 10px;
+                }
+                
+                nav {
+                    /* MENU */
+                    position: absolute;
+                    width: 960px;
+                    height: 51px;
+                    left: 190px;
+                    top: 240px;
+                    background: #CE0B0B;
+                }
+                
+                nav a {
+                    padding-right: 25px;
+                    text-decoration: #ffffff;
+                    color: white;
+                    display: inline-block;
+                    padding-top: 17px;
+                }
+                
+                .you h3 {
+                    /* YOU CAN ALSO FIND US ON : */
+                    position: absolute;
+                    width: 140px;
+                    height: 40px;
+                    left: 208px;
+                    top: 350px;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 18px;
+                    line-height: 30px;
+                    text-align: left;
+                    color: #000;
+                }
+                
+                .fb {
+                    position: absolute;
+                    width: 64px;
+                    height: 70px;
+                    left: 234px;
+                    top: 492px;
+                }
+                
+                .insta {
+                    position: absolute;
+                    width: 64px;
+                    height: 70px;
+                    left: 234px;
+                    top: 579px;
+                }
+                
+                .twitter {
+                    position: absolute;
+                    width: 64px;
+                    height: 70px;
+                    left: 234px;
+                    top: 662px;
+                }
+                
+                .tube {
+                    position: absolute;
+                    width: 64px;
+                    height: 70px;
+                    left: 234px;
+                    top: 745px;
+                }
+                
+                .location {
+                    position: absolute;
+                    width: 64px;
+                    height: 69px;
+                    left: 234px;
+                    top: 828px;
+                }
+                
+                .what-we-do {
+                    position: absolute;
+                    width: 716px;
+                    height: 1014px;
+                    left: 406px;
+                    top: 300px;
+                }
+                
+                .what-we-do H1 {
+                    /* SOME OF OUR SERVICES */
+                    position: absolute;
+                    width: 450px;
+                    height: 48px;
+                    left: 118px;
+                    top: -30px;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 36px;
+                    line-height: 45px;
+                    text-align: center;
+                    color: #000000;
+                    text-decoration: underline;
+                }
+                
+                .network h1 {
+                    position: absolute;
+                    width: 159px;
+                    height: 45px;
+                    left: 0px;
+                    top: 20px;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 36px;
+                    line-height: 45px;
+                    text-align: center;
+                    color: #000000;
+                }
+                
+                .network img {
+                    position: absolute;
+                    width: 178px;
+                    height: 141px;
+                    left: 6px;
+                    top: 97px;
+                }
+                
+                .network p {
+                    position: absolute;
+                    width: 484px;
+                    height: 111px;
+                    left: 210px;
+                    top: 102px;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 18px;
+                    line-height: 22px;
+                    text-align: center;
+                    color: #000000;
+                }
+                
+                .web img {
+                    position: absolute;
+                    width: 178px;
+                    height: 140px;
+                    left: 6px;
+                    top: 295px;
+                }
+                
+                .web h1 {
+                    position: absolute;
+                    width: 259px;
+                    height: 35px;
+                    left: -20px;
+                    top: 225px;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 36px;
+                    line-height: 45px;
+                    text-align: center;
+                    color: #000000;
+                }
+                
+                .web p {
+                    position: absolute;
+                    width: 424px;
+                    height: 88px;
+                    left: 241px;
+                    top: 307px;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 18px;
+                    line-height: 22px;
+                    text-align: center;
+                    color: #000000;
+                }
+                
+                .prog img {
+                    position: absolute;
+                    width: 178px;
+                    height: 139px;
+                    left: 6px;
+                    top: 522px;
+                }
+                
+                .prog p {
+                    position: absolute;
+                    width: 424px;
+                    height: 88px;
+                    left: 229px;
+                    top: 530px;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 18px;
+                    line-height: 22px;
+                    text-align: center;
+                    color: #000000;
+                }
+                
+                .prog h1 {
+                    position: absolute;
+                    width: 184px;
+                    height: 45px;
+                    left: 6px;
+                    top: 449px;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 36px;
+                    line-height: 45px;
+                    text-align: center;
+                }
+                
+                .IT img {
+                    position: absolute;
+                    width: 178px;
+                    height: 139px;
+                    left: 6px;
+                    top: 776px;
+                }
+                
+                .IT p {
+                    position: absolute;
+                    width: 424px;
+                    height: 88px;
+                    left: 229px;
+                    top: 776px;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 18px;
+                    line-height: 22px;
+                    text-align: center;
+                    color: #000000;
+                }
+                
+                .IT h1 {
+                    position: absolute;
+                    width: 500px;
+                    height: px;
+                    left: -10px;
+                    top: 683px;
+                    font-style: normal;
+                    font-weight: normal;
+                    font-size: 36px;
+                    line-height: 30px;
+                    text-align: center;
+                    color: #000000;
+                }
+                
+                .IT a {
+                    position: absolute;
+                    width: 301px;
+                    height: 49px;
+                    left: 115px;
+                    top: 952px;
+                    background: #CE0B0B;
+                    text-decoration: #ffffff;
+                    color: white;
+                    text-align: center;
+                    font-size: 36px;
+                }
+                
+                .footer {
+                    /* footer */
+                    position: absolute;
+                    width: 960px;
+                    height: 51px;
+                    left: 190px;
+                    top: 1400px;
+                    background: #CE0B0B;
+                    text-align: center;
+                    font-size: 24px;
+                }
